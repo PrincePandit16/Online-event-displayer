@@ -1,0 +1,11 @@
+p{
+    /* font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; */
+    font-family: 'Overlock', cursive;
+    font-weight: 500;
+    font-size:small;
+    color:rgb(16, 16, 16);
+    line-height: 1.4em;
+}
+nav{
+    color:brown;
+}
